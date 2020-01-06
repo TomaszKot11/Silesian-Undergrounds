@@ -7,7 +7,7 @@ All assets downloaded from internet and used in game are listed in "Spis użytyc
 ## Tytuł: Silesian undergrounds
 
 ## Autorzy:
-- Bartłomiej Bukowiecki (me)
+- Bartłomiej Bukowiecki (https://github.com/pelekon)
 - Kamil Klyta (https://github.com/gonuit)
 - Tomasz Kot (https://github.com/TomaszKot11)
 - Bartłomiej Wloczyk (https://github.com/Paxon96)
